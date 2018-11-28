@@ -7,3 +7,12 @@ D:\Visual Studio 2015\NhanVien\NhanVien\obj\Debug\NhanVien.csproj.GenerateResour
 D:\Visual Studio 2015\NhanVien\NhanVien\obj\Debug\NhanVien.exe
 D:\Visual Studio 2015\NhanVien\NhanVien\obj\Debug\NhanVien.pdb
 D:\Visual Studio 2015\NhanVien\NhanVien\obj\Debug\NhanVien.frmNhanVien.resources
+C:\Users\LENOVO\Desktop\cnpm\NhanVien\bin\Debug\NhanVien.exe.config
+C:\Users\LENOVO\Desktop\cnpm\NhanVien\obj\Debug\NhanVien.exe
+C:\Users\LENOVO\Desktop\cnpm\NhanVien\obj\Debug\NhanVien.pdb
+C:\Users\LENOVO\Desktop\cnpm\NhanVien\bin\Debug\NhanVien.exe
+C:\Users\LENOVO\Desktop\cnpm\NhanVien\bin\Debug\NhanVien.pdb
+C:\Users\LENOVO\Desktop\cnpm\NhanVien\obj\Debug\NhanVien.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\cnpm\NhanVien\obj\Debug\NhanVien.frmNhanVien.resources
+C:\Users\LENOVO\Desktop\cnpm\NhanVien\obj\Debug\NhanVien.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\cnpm\NhanVien\obj\Debug\NhanVien.csproj.GenerateResource.Cache

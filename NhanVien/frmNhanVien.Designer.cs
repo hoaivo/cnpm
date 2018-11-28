@@ -34,6 +34,7 @@
             this.colNgaySinh = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.colDT = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.colDC = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.clnBangcap = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.btnThem = new System.Windows.Forms.Button();
             this.btnXoa = new System.Windows.Forms.Button();
@@ -49,7 +50,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.dtpNgaySinh = new System.Windows.Forms.DateTimePicker();
             this.label1 = new System.Windows.Forms.Label();
-            this.clnBangcap = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.groupBox3.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -107,6 +107,11 @@
             this.colDC.Text = "Địa Chỉ";
             this.colDC.Width = 106;
             // 
+            // clnBangcap
+            // 
+            this.clnBangcap.Text = "Bằng Cấp";
+            this.clnBangcap.Width = 129;
+            // 
             // groupBox2
             // 
             this.groupBox2.BackColor = System.Drawing.SystemColors.GrayText;
@@ -129,7 +134,7 @@
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(93, 49);
             this.btnThem.TabIndex = 0;
-            this.btnThem.Text = "Thêm";
+            this.btnThem.Text = "Thêm bklahblah";
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
@@ -269,11 +274,6 @@
             this.label1.Size = new System.Drawing.Size(408, 42);
             this.label1.TabIndex = 4;
             this.label1.Text = "Danh Sách Nhân Viên";
-            // 
-            // clnBangcap
-            // 
-            this.clnBangcap.Text = "Bằng Cấp";
-            this.clnBangcap.Width = 129;
             // 
             // frmNhanVien
             // 
