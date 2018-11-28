@@ -145,7 +145,7 @@
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(93, 49);
             this.btnXoa.TabIndex = 0;
-            this.btnXoa.Text = "Xóa";
+            this.btnXoa.Text = "Xóa dadsasda";
             this.btnXoa.UseVisualStyleBackColor = true;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
