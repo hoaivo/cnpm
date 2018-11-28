@@ -1,0 +1,9 @@
+D:\Visual Studio 2015\NhanVien\FastFood\bin\Debug\FastFood.exe.config
+D:\Visual Studio 2015\NhanVien\FastFood\bin\Debug\FastFood.exe
+D:\Visual Studio 2015\NhanVien\FastFood\bin\Debug\FastFood.pdb
+D:\Visual Studio 2015\NhanVien\FastFood\obj\Debug\FastFood.FastFood.resources
+D:\Visual Studio 2015\NhanVien\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+D:\Visual Studio 2015\NhanVien\FastFood\obj\Debug\FastFood.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\NhanVien\FastFood\obj\Debug\FastFood.exe
+D:\Visual Studio 2015\NhanVien\FastFood\obj\Debug\FastFood.pdb
+D:\Visual Studio 2015\NhanVien\FastFood\obj\Debug\FastFood.csprojResolveAssemblyReference.cache
